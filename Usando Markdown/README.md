@@ -14,7 +14,7 @@ para criar rich text usando um editor de texto simples .
 >Site oficial
 [JOHN GRUBER](https://daringfireball.net/)
 
-![SITE](https://daringfireball.net/)
+![imagem](markdown.jpg)
 
 > Pesquisa feita por ```Leandro Mendes.```
 
